@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComBankThamal</string>
+    <string name="notification"> There will be an online service interruption between 12.00am - 2.00am</string>
+    <string name="home_page">- Home Page - ComBank Mobile Banking - All Rights Reserved - SLIIT - June_SE_50</string>
+    <string name="contact_us">- Contact Us - ComBank Mobile Banking - All Rights Reserved - SLIIT - June_SE_50</string>
+    <string name="help">- Help - ComBank Mobile Banking - All Rights Reserved - SLIIT - June_SE_50</string>
+</resources>
